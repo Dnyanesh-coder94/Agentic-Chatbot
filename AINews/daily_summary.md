@@ -1,23 +1,31 @@
 # Daily AI News Summary
 
-Here is the summary of AI news articles in markdown format:
+### **2026-03-27**
+- [US-based Alzheimer's network adopts Korean imaging AI and more briefs](https://www.mobihealthnews.com/news/asia/us-based-alzheimers-network-adopts-korean-imaging-ai-and-more-briefs)
+- [Powerplay Launches India’s First AI Workforce to Streamline Construction Sector Operations](https://businessnewsthisweek.com/technology/powerplay-launches-indias-first-ai-workforce-to-streamline-construction-sector-operations/)
+- [AI Industry Risks Trigger Global Economic Shock](https://letsdatascience.com/news/ai-industry-risks-trigger-global-economic-shock-2b7cf32b)
+- [AI ad of the week: CoinTracker helps crypto holders pay their taxes](https://adage.com/technology/ai/aa-ad-of-the-week-cointracker-helps-crypto-holders-pay-their-taxes/)
+- [16 of the most interesting startups from YC W’26 Demo Day](https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/)
+- [How agency buyers evaluate AI claims in M&A deals](https://adage.com/opinion/aa-how-to-evaluate-agency-ai-capabilities/)
+- [AI Is Giving Bad Advice to Flatter Its Users, Says New Study on Dangers of](https://www.bozemandailychronicle.com/ap_news/business/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of/article_c0a79831-8a2b-53d1-ac28-194ddac2ef14.html)
+- [If an AI can pass the test, the test isn’t the point](https://www.hrmagazine.co.uk/content/comment/if-an-ai-can-pass-the-test-the-test-isnt-the-point)
+- [OpenEvidence releases AI medical billing feature](https://www.modernhealthcare.com/health-tech/mh--4/)
+- [AI vs. Jobs: The Impact to Workforce for Students and Job Seekers](https://www.arcurrent.com/news/2026/03/26/ai-vs-jobs-the-impact-to-workforce-for-students-and-job-seekers/)
+- [Slang AI Highlights Community Engagement in Hospitality Workforce Development](https://www.tipranks.com/news/private-companies/slang-ai-highlights-community-engagement-in-hospitality-workforce-development)
+- [Philips AI cath lab copilot nets FDA clearance](https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance)
+- [Judge blocks Pentagon order branding Anthropic a national security risk](https://www.washingtonpost.com/technology/2026/03/26/pentagon-anthropic-national-security-risk-order-blocked/)
 
-### 2025-06-09
-
-* [AI helps detect rare diseases in adults](https://www.mobihealthnews.com/news/exclusive-pangea-data-astrazenecas-alexion-partner-spot-rare-disease-ehrs) - Pangea Data and Alexion are partnering to develop an AI-enabled offering to detect hypophosphatasia in adults.
-* [AI protocol for future interactions with autonomous systems](https://www.businessinsider.com/ai-protocol-rules-future-2025-6) - Google has launched Agent2Agent, a protocol for AI agents to communicate with each other and humans.
-* [AI system helps visually impaired individuals explore unfamiliar environments](https://www.news-medical.net/news/20250608/AI-transforms-sightseeing-for-visually-impaired-users.aspx) - Researchers have developed an AI-driven system to help visually impaired individuals explore and understand unfamiliar environments.
-* [Smart Agriculture Market Trends: AI, IoT, and Precision Farming Shaping the Future of AgriTech](https://www.openpr.com/news/4057041/smart-agriculture-market-trends-ai-iot-and-precision-farming) - The Smart Agriculture Market is expected to grow with the adoption of AI, IoT, and precision farming.
-* [Apple's AI ambitions face regulatory challenges](https://www.reuters.com/business/wwdc-apple-faces-ai-regulatory-challenges-it-woos-software-developers-2025-06-09/) - Apple is facing regulatory challenges in its AI ambitions, despite being a leader in the field.
-* [Palantir's meteoric climb raises concerns about its AI leadership](https://www.forbes.com/sites/greatspeculations/2025/06/09/palantir-stock-soars---but-is-the-risk-worth-it/) - Palantir's stock has soared, but some experts are concerned about the company's AI leadership and sustainability.
-* [Photonic quantum chips make AI smarter and greener](http://www.sciencedaily.com/releases/2025/06/250608222002.htm) - Researchers have developed photonic quantum chips that can make AI smarter and more energy-efficient.
-* [AI-driven robots are rewriting the factory rulebook](https://www.forbes.com/sites/jonathanreichental/2025/06/08/ai-driven-robots-are-rewriting-the-factory-rulebook/) - AI-driven robots are transforming the manufacturing industry, enabling new forms of automation and productivity.
-* [AIB Group sells minority stake in AIBMS to Fiserv](https://www.fintechfutures.com/m-a/aib-group-sells-minority-stake-in-aib-merchant-services-to-fiserv) - AIB Group has sold its minority stake in AIBMS to Fiserv, a US fintech giant.
-* [YXT.com's AI Learning Platform Deployed by Siemens for Digital Workforce Transformation](https://www.tradingview.com/news/reuters.com,2025-06-09:newsml_GNX7HzZPv:0-yxt-com-s-ai-learning-platform-deployed-by-siemens-for-digital-workforce-transformation/) - Siemens has deployed YXT.com's AI Learning Platform to support its digital workforce transformation.
-* [UK leads Europe in smart manufacturing with AI](https://www.themanufacturer.com/articles/daily-manufacturing-news-digest-the-industry-stories-you-should-be-aware-of-today-090625/) - The UK is leading Europe in smart manufacturing with AI, according to a report by Rockwell Automation.
-* [AI's next frontier: Predicting your sleep needs](https://www.theleader.com.au/story/8987672/ais-next-frontier-predicting-your-sleep-needs/) - Researchers are using AI to predict sleep needs and improve sleep quality.
-* [New Report: How Travel Marketers Are Using AI](https://skift.com/2025/06/09/ai-strategies-travel-marketers/) - A new report reveals how travel marketers are using AI to drive business growth and make better decisions.
-* [AI models still far from AGI-level reasoning](https://cointelegraph.com/news/artificial-general-intelligence-long-way-off-apple) - Apple researchers have found that current AI models are still far from achieving AGI-level reasoning.
-* [No matter what happens at WWDC today, I'm never using this AI feature on my iPhone 16](https://www.cnet.com/tech/mobile/no-matter-what-happens-at-wwdc-today-im-never-using-this-ai-feature-on-my-iphone-16/) - Apple's new AI feature may not be as exciting as expected, according to a CNET article.
-* [Need a Chief AI Officer? Look to these British orgs that have made the hire](https://hrexecutive.com/need-a-chief-ai-officer-look-to-these-british-orgs-that-have-made-the-hire/) - The UK is leading the way in AI adoption, with several organizations hiring Chief AI Officers to lead their AI initiatives.
-* [Ukraine's naval drone success forces Russia into retreat](https://www.maritime-executive.com/editorials/small-craft-big-impact-ukraine-s-war-and-the-rise-of-new-tech-warships) - Ukraine's use of naval drones has forced Russia into retreat, and the US Navy is taking note of the success.
+### **2026-03-26**
+- [AI & Tech Brief: The Physical AI revolution](https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/03/26/ai-tech-brief-physical-ai-revolution/)
+- [AI Impact: Is AI Making Your Marketing Too Efficient?](https://www.newsweek.com/ai-impact-is-ai-making-your-marketing-too-efficient-11742013)
+- [Exclusive: Huawei's new AI chip finds favour with ByteDance, Alibaba which plan to place orders, sources say](https://www.reuters.com/world/china/huaweis-new-ai-chip-find-favour-with-bytedance-alibaba-which-plan-place-orders-2026-03-27/)
+- [Woman passes by doorbell cam, what she sees makes her want to flip some tables](https://www.newsweek.com/woman-passes-doorbell-cam-whats-she-sees-makes-her-want-to-flip-some-tables-11741139)
+- [Why Sora had already lost marketers to rival AI tools—and what comes next](https://adage.com/technology/ai/aa-sora-ai-tools-marketing-losers/)
+- [How agency buyers evaluate AI claims in M&A deals](https://adage.com/opinion/aa-how-to-evaluate-agency-ai-capabilities/)
+- [16 of the most interesting startups from YC W’26 Demo Day](https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/)
+- [Artificial intelligence chatbots are so prone to flattering and validating their human users that they are giving bad advice that can damage relationships and reinforce harmful behaviors](https://www.bozemandailychronicle.com/ap_news/business/ai-is-giving-bad-advice-to-flatter-its-users-says-new-study-on-dangers-of/article_c0a79831-8a2b-53d1-ac28-194ddac2ef14.html)
+- [If an AI can pass the test, the test isn’t the point](https://www.hrmagazine.co.uk/content/comment/if-an-ai-can-pass-the-test-the-test-isnt-the-point)
+- [OpenEvidence releases AI medical billing feature](https://www.modernhealthcare.com/health-tech/mh--4/)
+- [AI vs. Jobs: The Impact to Workforce for Students and Job Seekers](https://www.arcurrent.com/news/2026/03/26/ai-vs-jobs-the-impact-to-workforce-for-students-and-job-seekers/)
+- [Philips AI cath lab copilot nets FDA clearance](https://www.fiercebiotech.com/medtech/philips-ai-cath-lab-copilot-nets-fda-clearance)
+- [Judge blocks Pentagon order branding Anthropic a national security risk](https://www.washingtonpost.com/technology/2026/03/26/pentagon-anthropic-national-security-risk-order-blocked/)

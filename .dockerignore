@@ -1,0 +1,25 @@
+# Git
+.git
+.gitignore
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Local data / specific files
+AINews/
+*.md
+
+# OS generated files
+.DS_Store
+Thumbs.db

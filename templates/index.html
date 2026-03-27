@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LangGraph Agentic AI</title>
+    <!-- Modern Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', path='style.css') }}">
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="bg-mesh">
+        <div class="blob-1"></div>
+        <div class="blob-2"></div>
+        <div class="blob-3"></div>
+    </div>
+
+    <div class="app-container blur-overlay">
+        
+        <!-- Sidebar Navigation & Config -->
+        <aside class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <h2>🤖 Config</h2>
+            </div>
+            
+            <div class="sidebar-content scroll-hide">
+                <div class="config-group">
+                    
+                    <div class="form-control">
+                        <label for="llm-select">Select LLM</label>
+                        <div class="select-wrapper">
+                            <select id="llm-select">
+                                <option value="Groq">Groq</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-control" id="model-group">
+                        <label for="model-select">Select Model</label>
+                        <div class="select-wrapper">
+                            <select id="model-select">
+                                <option value="llama-3.1-8b-instant">llama-3.1-8b-instant</option>
+                                <option value="llama-3.3-70b-versatile">llama-3.3-70b-versatile</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-control">
+                        <label for="groq-api-key">GROQ API Key</label>
+                        <input type="password" id="groq-api-key" placeholder="Enter API Key">
+                    </div>
+
+                    <div class="form-control">
+                        <label for="usecase-select">Select Usecase</label>
+                        <div class="select-wrapper">
+                            <select id="usecase-select">
+                                <option value="Basic Chatbot">Basic Chatbot</option>
+                                <option value="Chatbot With Web">Chatbot With Web</option>
+                                <option value="AI News">AI News</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-control hidden slide-in" id="tavily-group">
+                        <label for="tavily-api-key">TAVILY API KEY</label>
+                        <input type="password" id="tavily-api-key" placeholder="Enter TAVILY Key">
+                    </div>
+
+                    <div class="form-control hidden slide-in" id="timeframe-group">
+                        <label for="timeframe-select">📰 Select Time Frame</label>
+                        <div class="select-wrapper">
+                            <select id="timeframe-select">
+                                <option value="Daily">Daily</option>
+                                <option value="Weekly">Weekly</option>
+                                <option value="Monthly">Monthly</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </aside>
+
+        <!-- Main Chat Area -->
+        <main class="chat-workspace">
+            <header class="workspace-header glass-panel">
+                <div class="header-info">
+                    <h1>LangGraph: Build Stateful Agentic AI graph</h1>
+                </div>
+                <div class="header-actions">
+                    <button class="icon-btn" title="Clear Chat" onclick="document.getElementById('chat-history').innerHTML=''"><i class="fa-solid fa-trash-can"></i></button>
+                </div>
+            </header>
+
+            <div class="chat-history scroll-hide" id="chat-history">
+                <div class="message system-message fade-in-up">
+                    <div class="avatar"><i class="fa-solid fa-robot"></i></div>
+                    <div class="message-content">
+                        Welcome to the LangGraph AI Chatbot! Please configure your settings in the sidebar to begin.
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-input-wrapper glass-panel">
+                <div class="input-container">
+                    <textarea id="chat-input" placeholder="Enter your message..." autocomplete="off" rows="1"></textarea>
+                    <button id="send-button" class="send-btn">
+                        <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="{{ url_for('static', path='app.js') }}"></script>
+</body>
+</html>

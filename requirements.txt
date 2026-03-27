@@ -5,5 +5,7 @@ langchain_core
 langchain_groq
 langchain_openai
 faiss-cpu
-streamlit
 tavily-python
+fastapi
+uvicorn
+jinja2
